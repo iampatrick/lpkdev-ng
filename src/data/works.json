@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Effective Marketing and Creative Concepts",
+        "description": "Logo design, business cards, and website for a small hosting company in Southwest Florida",
+        "type": ["logo","branding","website"],
+        "url": "",
+        "image": "branding-EMC-tn.jpg"
+    },
+    {
+        "id": 2,
+        "title": "No No-See-Um, Natural Insect Repellent",
+        "description": "Logo, bottle, and marketing material design for natural insect repellent brand.",
+        "type": ["logo","branding"],
+        "url": "",
+        "image": "branding-NoooNoSeeUm-tn.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Florida Urology Associates",
+        "description": "Website for four urology offices",
+        "type": ["website"],
+        "url": "http://myfloridaurology.com/",
+        "image": "portfolio-Urology.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Gulfport Massage Therapy",
+        "description": "One-page website for St Petersburg massage therapy",
+        "type": ["website"],
+        "url": "https://gulfportmassagetherapy.com/",
+        "image": "website-GulfportMassageTherapy.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Specialty Fitness Institute",
+        "description": "Logo, website, members area with online access of program materials, and automatic registration intigrated with online sales.",
+        "type": ["logo","website"],
+        "url": "https://specialtyfitnessinstitute.com/",
+        "image": "project-SFI.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Orlando Outdoor Lighting",
+        "description": "Logo & Website design for local family-owned outdoor lighting business.",
+        "type": ["logo","website"],
+        "url": "https://orlandooutdoorlighting.cc/",
+        "image": "project-OrlandoOutdoorLighting.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Brittany Brochard Logo",
+        "description": "Logo design for St Petersburg Florida attorney",
+        "type": ["logo"],
+        "url": "https://brittanybrochard.com/",
+        "image": "logo-BLB.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Anne F Borghetti Logo",
+        "description": "Logo design for Florida attorney.\n Website coming soon!",
+        "type": ["logo"],
+        "url": "",
+        "image": "logo-AFB.jpg"
+    }
+]

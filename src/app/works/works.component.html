@@ -1,0 +1,17 @@
+<div class="sort my-4">
+    <button
+        *ngFor="let field of filterFields"
+        name="filterField"
+        type="button"
+        class="btn btn-sm btn-outline-dark"
+        [ngClass]="{
+            'btn-dark': filterField.includes(field) }"
+        (click)="clickToggleFilterValues(field)"
+        >{{ utilService.capitalize(field) }}</button>
+</div>
+
+<div class="row">
+    <div *ngFor="let work of works | sortBy: [sortField, sortDirection] | filterBy: filterField" class="col-sm-6">
+        <app-works-item [work]="work" ></app-works-item>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+<div class="portfolio-item" >
+    <div class="caption">
+        <h4>{{ work.title }}</h4>
+        <p>{{ work.description }}</p>
+        <a *ngIf="work.url" href="{{ work.url }}" class="btn btn-dark" target="new">View Website</a>
+    </div>
+    <div class="bg"></div>
+    <img class="img-portfolio img-responsive" src="assets/img/works/{{ work.image }}" alt="{{ work.title }}" />
+</div>
